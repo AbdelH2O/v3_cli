@@ -1,0 +1,19 @@
+{
+  "name": "candy_machine_v3_cli",
+  "version": "1.0.0",
+  "description": "unofficial CLI to interact with the new candy machine",
+  "main": "index.ts",
+  "author": "@AbdelH2O",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.17.1",
+    "@project-serum/serum": "^0.13.65",
+    "@solana/web3.js": "^1.64.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
